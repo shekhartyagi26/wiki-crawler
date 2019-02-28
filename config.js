@@ -1,5 +1,6 @@
+//mongodb credentials
 module.exports = {
-    //mongodb credentials
-    dbUsername : "wiki-crawler",
-    dbPassword : "",
-    dbConnectUrl : ""}
+    dbUsername: "wiki-crawler",
+    dbPassword: "",
+    dbConnectUrl: ""
+}

@@ -23,7 +23,7 @@
   "devDependencies": {},
   "scripts": {
     "dev": "nodemon index.js",
-    "start" : "node index.js",
+    "start": "node index.js",
     "push": "git push heroku master"
   },
   "repository": {

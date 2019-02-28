@@ -25,8 +25,6 @@ try {
     server.listen(port);
     console.log("server running at " + port);
     //---------------------------------------------
-
-    //crawler();
 }
 catch (e) {
     console.log("Error:" + e.message);
